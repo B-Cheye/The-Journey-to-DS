@@ -1,4 +1,4 @@
-# The-Journey to Data Science
+# The Journey to Data Science
 <div align="center">
 
 ![ODS Stickers](https://github.com/B-Cheye/The-Journey-to-DS/blob/master/figures/ods_stickers.jpg)
